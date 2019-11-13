@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-server" />
+        <module name="ms-server-system" />
+        <module name="ms-monitor-admin" />
+        <module name="ms-auth" />
+        <module name="ms-common" />
+        <module name="ms-monitor" />
+        <module name="ms-server-test" />
+        <module name="ms-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ms-auth" target="1.8" />
+      <module name="ms-cloud" target="1.8" />
+      <module name="ms-common" target="1.8" />
+      <module name="ms-gateway" target="1.8" />
+      <module name="ms-monitor" target="1.8" />
+      <module name="ms-monitor-admin" target="1.8" />
+      <module name="ms-register" target="1.8" />
+      <module name="ms-server" target="1.8" />
+      <module name="ms-server-system" target="1.8" />
+      <module name="ms-server-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ms-auth" options="-parameters" />
+      <module name="ms-common" options="-parameters" />
+      <module name="ms-gateway" options="-parameters" />
+      <module name="ms-monitor" options="-parameters" />
+      <module name="ms-monitor-admin" options="-parameters" />
+      <module name="ms-register" options="-parameters" />
+      <module name="ms-server" options="-parameters" />
+      <module name="ms-server-system" options="-parameters" />
+      <module name="ms-server-test" options="-parameters" />
+    </option>
+  </component>
+</project>

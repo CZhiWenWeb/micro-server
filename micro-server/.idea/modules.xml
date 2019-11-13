@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/micro-server.iml" filepath="$PROJECT_DIR$/.idea/micro-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-auth/ms-auth.iml" filepath="$PROJECT_DIR$/ms-auth/ms-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-cloud/ms-cloud.iml" filepath="$PROJECT_DIR$/ms-cloud/ms-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-common/ms-common.iml" filepath="$PROJECT_DIR$/ms-common/ms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-gateway/ms-gateway.iml" filepath="$PROJECT_DIR$/ms-gateway/ms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-monitor/ms-monitor.iml" filepath="$PROJECT_DIR$/ms-monitor/ms-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-monitor/ms-monitor-admin/ms-monitor-admin.iml" filepath="$PROJECT_DIR$/ms-monitor/ms-monitor-admin/ms-monitor-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-server/ms-server.iml" filepath="$PROJECT_DIR$/ms-server/ms-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-server/ms-server-system/ms-server-system.iml" filepath="$PROJECT_DIR$/ms-server/ms-server-system/ms-server-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-server/ms-server-test/ms-server-test.iml" filepath="$PROJECT_DIR$/ms-server/ms-server-test/ms-server-test.iml" />
+    </modules>
+  </component>
+</project>
